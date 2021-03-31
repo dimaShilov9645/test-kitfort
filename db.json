@@ -2,28 +2,16 @@
   "posts": [
     {
       "id": 1,
-      "title": "Post 1",
-      "price": 5,
-      "percent": 78
+      "title": "Post 1"
     },
     {
       "id": 2,
-      "title": "Post 1",
-      "price": 6,
-      "percent": 12
+      "title": "Post 2"
     },
     {
       "id": 3,
-      "title": "Post 1",
-      "price": 7,
-      "percent": 14
-    },
-    {
-      "id": 4,
-      "title": "Post 1",
-      "price": 9,
-      "percent": 20
-    },
+      "title": "Post 3"
+    }
   ],
   "comments": [
     {
